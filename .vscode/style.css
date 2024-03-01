@@ -1,0 +1,98 @@
+* head {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
+}
+#h1 {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+
+#h3 {
+  font-variant: black 50px;
+  font-family: "Sixtyfour", sans-serif;
+  left: 30%;
+}
+body {
+  background-image: url(./assets/background\ with\ and\ blue.jpg); /* para selecionar imagem*/
+  background-size: cover; /* para cobrir todo espaco em braco da pagina*/
+  color: rgb(38, 111, 111); /* cor da letra em HTML*/
+}
+
+body * {
+  font-family: "Inter", sans-serif;
+  color: rgb(57, 85, 75);
+}
+
+#containner {
+  /*width: 360px; largura*/
+
+  /*height: 712px; altura da pagina*/
+
+  #profile {
+    text-align: center;
+    margin: auto;
+  }
+}
+#profile img {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+  border: 5px Solid hwb(186 68% 7% / 0.766);
+}
+
+
+#profile p {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  text-align: justify;
+  text-indent: 4%;
+}
+
+.center {
+  text-align: center;
+}
+
+ul li a {
+  color: rgb(16, 27, 68);
+  text-decoration: none;
+  border: 3px solid hsla(211, 82%, 78%, 0.693);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  block-size: 25px;
+  width: 150px;
+  background: rgba(145, 195, 236, 0.318);
+  backdrop-filter: blur(10px);
+}
+/* soscia links*/
+#social-links {
+  display: flex;
+  justify-content: center;
+  /*gap: 16px;*/
+  padding: 34px;
+  font-size: 34px;
+  gap: 16px;
+  /*border-radius: 50%;*/
+}
+
+#social-links a {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px;
+  transition: background 0.3s;
+  border-radius: 30%;
+  /*gap: 16px;*/
+}
+
+#social-links a:hover {
+  background: rgba(143, 186, 226, 0.318);
+  padding: 5px;
+  border-radius: 20%;
+}
+footer {
+  padding: 24px 0;
+  text-align: center;
+}
