@@ -24,6 +24,6 @@ Bibliotecas
 
 ## 💻 Projeto
 
-Meu "Primeiro Projeto", é uma página de auto apresentação do meu trabalho desenvolvido à partir das minhas primeiras aulas, aqui eu pude aplicar alguns conhecimentos adiquiridos em sala de aula e aplicar a criatividade para o desenvolvimento deste projeto, espero que goste!
+Meu "Primeiro Projeto", é uma página de auto apresentação do meu trabalho desenvolvido à partir das minhas primeiras aulas, aqui eu pude aplicar alguns conhecimentos adquiridos em sala de aula e aplicar a criatividade para o desenvolvimento deste projeto, espero que goste!
 
 <!--END_SECTION:footer-->
